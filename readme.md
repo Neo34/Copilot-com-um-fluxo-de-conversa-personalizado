@@ -57,5 +57,4 @@
 
 ---
 
-Se quiser, posso te ajudar a criar um exemplo de fluxo de conversa completo com GenAI ou sugerir prompts para diferentes tipos de negócio. Qual setor você gostaria de aplicar esse copiloto?
 
